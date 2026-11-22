@@ -183,7 +183,7 @@ function cornerParts(c, b) {
 function renderHome() {
   sidebar("home");
   $("#main").innerHTML = `<div class="home" style="max-width:1080px;margin:0 auto">
-  <h1>JEE Main Mathematics: Short Notes <span class="h1by">by Akash Jaiswal</span></h1>
+  <h1>JEE Main Mathematics: Short Notes <span class="h1by">by Aarush Oberoi</span></h1>
   <h2>Class 11 Maths</h2>${tiles(11)}
   <h2 style="margin-top:18px">Class 12 Maths</h2>${tiles(12)}
   </div>`;
